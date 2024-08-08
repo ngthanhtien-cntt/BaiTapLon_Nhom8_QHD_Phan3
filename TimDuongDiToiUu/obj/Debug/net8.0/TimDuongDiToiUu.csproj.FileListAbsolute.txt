@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\BTL_Nhom8_Phan3\TimDuongDiToiUu\bin\Debug\net8.0\TimDuongDiToiUu.exe
+C:\Users\ACER\source\repos\BTL_Nhom8_Phan3\TimDuongDiToiUu\bin\Debug\net8.0\TimDuongDiToiUu.deps.json
+C:\Users\ACER\source\repos\BTL_Nhom8_Phan3\TimDuongDiToiUu\bin\Debug\net8.0\TimDuongDiToiUu.runtimeconfig.json
+C:\Users\ACER\source\repos\BTL_Nhom8_Phan3\TimDuongDiToiUu\bin\Debug\net8.0\TimDuongDiToiUu.dll
+C:\Users\ACER\source\repos\BTL_Nhom8_Phan3\TimDuongDiToiUu\bin\Debug\net8.0\TimDuongDiToiUu.pdb
+C:\Users\ACER\source\repos\BTL_Nhom8_Phan3\TimDuongDiToiUu\obj\Debug\net8.0\TimDuongDiToiUu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\BTL_Nhom8_Phan3\TimDuongDiToiUu\obj\Debug\net8.0\TimDuongDiToiUu.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\BTL_Nhom8_Phan3\TimDuongDiToiUu\obj\Debug\net8.0\TimDuongDiToiUu.AssemblyInfo.cs
+C:\Users\ACER\source\repos\BTL_Nhom8_Phan3\TimDuongDiToiUu\obj\Debug\net8.0\TimDuongDiToiUu.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BTL_Nhom8_Phan3\TimDuongDiToiUu\obj\Debug\net8.0\TimDuongDiToiUu.dll
+C:\Users\ACER\source\repos\BTL_Nhom8_Phan3\TimDuongDiToiUu\obj\Debug\net8.0\refint\TimDuongDiToiUu.dll
+C:\Users\ACER\source\repos\BTL_Nhom8_Phan3\TimDuongDiToiUu\obj\Debug\net8.0\TimDuongDiToiUu.pdb
+C:\Users\ACER\source\repos\BTL_Nhom8_Phan3\TimDuongDiToiUu\obj\Debug\net8.0\TimDuongDiToiUu.genruntimeconfig.cache
+C:\Users\ACER\source\repos\BTL_Nhom8_Phan3\TimDuongDiToiUu\obj\Debug\net8.0\ref\TimDuongDiToiUu.dll

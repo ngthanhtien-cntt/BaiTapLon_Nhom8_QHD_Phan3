@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\BTL_Nhom8_Phan3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4FAC0D-92E7-4D17-B975-FD1FF07EBD13}|Balo\\Balo.csproj|c:\\users\\acer\\desktop\\btl_nhom8_phan3\\balo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC4FAC0D-92E7-4D17-B975-FD1FF07EBD13}|Balo\\Balo.csproj|solutionrelative:balo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E1D892-A8F1-411A-B272-8FF992C9B753}|TimDuongDiToiUu\\TimDuongDiToiUu.csproj|c:\\users\\acer\\desktop\\btl_nhom8_phan3\\timduongditoiuu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E1D892-A8F1-411A-B272-8FF992C9B753}|TimDuongDiToiUu\\TimDuongDiToiUu.csproj|solutionrelative:timduongditoiuu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6DEB72-CF2D-4FFF-A0F1-B63083953953}|XauConChungDaiNhat\\XauConChungDaiNhat.csproj|c:\\users\\acer\\desktop\\btl_nhom8_phan3\\xauconchungdainhat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6DEB72-CF2D-4FFF-A0F1-B63083953953}|XauConChungDaiNhat\\XauConChungDaiNhat.csproj|solutionrelative:xauconchungdainhat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BTL_Nhom8_Phan3\\Balo\\Program.cs",
+              "RelativeDocumentMoniker": "Balo\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BTL_Nhom8_Phan3\\Balo\\Program.cs",
+              "RelativeToolTip": "Balo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:00:56.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BTL_Nhom8_Phan3\\XauConChungDaiNhat\\Program.cs",
+              "RelativeDocumentMoniker": "XauConChungDaiNhat\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BTL_Nhom8_Phan3\\XauConChungDaiNhat\\Program.cs",
+              "RelativeToolTip": "XauConChungDaiNhat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:00:24.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BTL_Nhom8_Phan3\\TimDuongDiToiUu\\Program.cs",
+              "RelativeDocumentMoniker": "TimDuongDiToiUu\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BTL_Nhom8_Phan3\\TimDuongDiToiUu\\Program.cs",
+              "RelativeToolTip": "TimDuongDiToiUu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:58:36.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
